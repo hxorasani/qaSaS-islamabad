@@ -1,0 +1,9 @@
+* usb
+* headphones
+* smartwatches
+* smartbands
+* smartglasses
+* laptop
+* charger
+* phones
+	* smartphones
