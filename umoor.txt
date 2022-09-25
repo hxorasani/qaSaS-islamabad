@@ -7,3 +7,9 @@
 * charger
 * phones
 	* smartphones
+
+* computers
+* speakers
+* routers
+* drones
+* camera
