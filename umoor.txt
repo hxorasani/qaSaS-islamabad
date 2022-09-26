@@ -1,5 +1,8 @@
 * usb
 * headphones
+   * Sennheiser earbuds = 58290
+   * Bose earbuds 
+   * Sony earbuds
 * smartwatches
 * smartbands
 * smartglasses
