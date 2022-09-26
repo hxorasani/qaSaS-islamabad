@@ -1,8 +1,12 @@
 * usb
 * headphones
    * Sennheiser earbuds = 58290
-   * Bose earbuds 
-   * Sony earbuds
+   * Bose earbuds = 45000 
+    - material
+      Earbuds:Plastic/gold plating/polymer coating
+      Eartips: Silicone
+      Case: Hard plastic
+   * Sony earbuds = 46000
 * smartwatches
 * smartbands
 * smartglasses
