@@ -1,4 +1,6 @@
 * usb
+	* [USB 3](https://www.youtube.com/shorts/l7jlvSI18k4)
+	* [micro USB snake](https://www.youtube.com/shorts/LhELix-LkZ8)
 * headphones
    * Sennheiser earbuds = 58290
    * Bose earbuds = 45000 
